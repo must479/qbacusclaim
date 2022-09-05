@@ -18,7 +18,7 @@ eyre = "0.6"
 tracing = "0.1"
 tracing-futures = "0.2"
 tracing-subscriber = { version = "0.3", features = ["json"] }
-rocksdb = "0.18"
+rocksdb = "0.19"
 mockall = "0.10.2"
 
 backtrace = { version = "0.3", optional = true }

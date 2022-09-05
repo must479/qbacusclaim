@@ -19,7 +19,7 @@ eyre = "0.6"
 num = "0.4"
 tokio = "1"
 hex = "0.4.3"
-rocksdb = "0.18"
+rocksdb = "0.19"
 tracing-futures = "0.2"
 reqwest = "0.11"
 
